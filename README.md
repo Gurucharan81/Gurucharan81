@@ -2,7 +2,7 @@
 
 Welcome to my GitHub!
 
-I'm a **VisionPLUS Developer and Associate Software Engineer** with training in the **Cards & Payments domain** and Mainframe technologies. I am passionate about understanding how credit card systems process millions of transactions securely through authorization, settlement, billing, and payment processing.
+I'm a ** Associate Software Engineer** with training in the **Cards & Payments domain** and Mainframe technologies. I am passionate about understanding how credit card systems process millions of transactions securely through authorization, settlement, billing, and payment processing.
 
 ---
 
