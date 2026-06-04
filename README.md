@@ -34,7 +34,7 @@ I'm a ** Associate Software Engineer** with training in the **Cards & Payments d
 
 ## 🌟 Projects
 
-### 💳 Credit Card Management System
+### 💳 Credit Card Processing & Plan Balance Management System
 
 A banking application designed to simulate the complete credit card lifecycle and transaction processing environment.
 
